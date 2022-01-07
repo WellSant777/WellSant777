@@ -13,6 +13,4 @@
   <img alt="Learning-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img alt="Learning-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img alt="Learning-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img alt="Learning-Apache" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
-  <img alt="Learning-MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div> <br>
