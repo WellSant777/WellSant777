@@ -1,7 +1,7 @@
 
 <div>
   <h1>Olá, amigo.</h1>
-  <h5>sᴏᴜ ᴅᴇsᴇɴᴠᴏʟᴠᴇᴅᴏʀ Full Stack. ᴀʟᴜɴᴏ ᴅᴀ ʙ7ᴡᴇʙ, RocketSeat ᴇ ᴏʀɪɢᴀᴍɪᴅ ᴏɴᴅᴇ ᴇᴜ ᴀᴘʀᴇɴᴅᴏ ɴᴀ ᴘʀᴀᴛɪᴄᴀ ᴀs ᴘʀɪɴᴄɪᴘᴀɪs ᴛᴇᴄɴᴏʟᴏɢɪᴀs ᴅᴏ ᴍᴇʀᴄᴀᴅᴏ.</h5>
+  <h5>Sou desenvolvedor FRONT-END, atualmente estou fazendo faculdade de Sistemas para internet e estudando por conta própria nas plataformas Origamid e Rocketseat.</h5>
   <h5>Atualmente estou aprendendo inglês na plataforma Mairo Vergara 5.0<h5>
 </div>
 <div>
