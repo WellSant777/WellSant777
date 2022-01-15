@@ -1,6 +1,6 @@
 
 <div>
-  <h1>Hey! Bem vindo bro :D</h1>
+  <h1>Hey! Bem vindo :D</h1>
   <h5>Sou desenvolvedor FRONT-END, atualmente estou fazendo faculdade de Sistemas para internet e estudando por conta própria nas plataformas Origamid e Rocketseat.</h5>
 </div>
     
